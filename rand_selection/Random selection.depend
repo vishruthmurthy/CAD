@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1670072132 source:c:\users\asus\desktop\vlsi design\lab\cad\lab_sessionals\rand_selection\list.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"list.h"
+
+1670071736 c:\users\asus\desktop\vlsi design\lab\cad\lab_sessionals\rand_selection\list.h
+
+1670072168 source:c:\users\asus\desktop\vlsi design\lab\cad\lab_sessionals\rand_selection\list_main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"list.h"
+
